@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.studyrecording.plugindemo.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.studyrecording.plugindemo.MyBundle
 
 class MyApplicationService {
 
